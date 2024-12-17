@@ -1,5 +1,4 @@
-[
-   {
+{
       "SeriesName": "AP13", /* ชื่อรุ่นของซีรีส์ */
       "ButtonState": {
          "btnDoorOpen": true, /* ปุ่มเปิดประตู */
@@ -38,4 +37,3 @@
          "BatteryVoltage": true /* แรงดันไฟฟ้าของแบตเตอรี่ */
       }
    }
-]
